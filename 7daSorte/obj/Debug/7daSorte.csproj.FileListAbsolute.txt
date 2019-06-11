@@ -1,0 +1,10 @@
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\obj\Debug\7daSorte.csprojAssemblyReference.cache
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\obj\Debug\_7daSorte.Form1.resources
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\obj\Debug\_7daSorte.Properties.Resources.resources
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\obj\Debug\7daSorte.csproj.GenerateResource.cache
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\obj\Debug\7daSorte.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\bin\Debug\7daSorte.exe.config
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\bin\Debug\7daSorte.exe
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\bin\Debug\7daSorte.pdb
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\obj\Debug\7daSorte.exe
+C:\Users\Fabricio Polo\Documents\GitHub\CSharp_Adventures\7daSorte\obj\Debug\7daSorte.pdb
