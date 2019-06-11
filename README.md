@@ -1,2 +1,4 @@
 # CSharp_Adventures
-Repo for C# tests in Visual Studio
+Repo for C# tests.
+
+Folders of Visual Studio projects
